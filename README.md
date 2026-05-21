@@ -4,4 +4,5 @@ SatSurfGS is an implementation of the paper SatSurfGS: Generalizable 2D Gaussian
 
 
 
-Note：This repository is undergoing revisions, and our paper is still under review.
+
+Note：This repository is undergoing revisions, and our paper is still under review. A preprint of this article has been published in arXiv, arXiv ID: arXiv: 2605.07181. The extended US3D dataset used in the training has been uploaded to the Google Cloud: https://drive.google.com/file/d/1lowdoKiTeVwpJb_Sb9ZNJZ3N-A5agfmL/view?usp=sharing
